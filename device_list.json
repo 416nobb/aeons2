@@ -1,0 +1,12 @@
+{
+    "devices": [
+        {
+            "device_id": "test_device_001",
+            "device_name": "测试设备1",
+            "mac_address": "00:00:00:00:00:01",
+            "cpu_id": "test_cpu_001",
+            "register_time": "2024-01-01 10:00:00",
+            "last_login": "2024-01-01 10:00:00"
+        }
+    ]
+}
