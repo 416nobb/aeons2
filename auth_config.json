@@ -1,0 +1,6 @@
+{
+    "auth_password": "111",
+    "auth_enabled": true,
+    "version": "1.0",
+    "max_devices": 10
+}
